@@ -1,7 +1,5 @@
 # <About>
 #____________________________________________________________________________________________________________________________________________________________
-# Copyright © 2018 SANSA. All rights reserved.
-# 
 # DESCRIPTION:    
 # 	This script contains functions that return data regarding the status of a systems HDDs.
 #
@@ -12,7 +10,7 @@
 #	-See import list below
 #
 # VERSION HISTORY
-#	2017/06/08 17h02	:	Andre Odendaal 	: 	Created to read values from Windows PC.
+#	2017/06/08 17h02	:	Andre Odendaal 	: 	Created to read disk use values from a PC.
 #    
 # TO DO:
 # 	-Add functions for Linux PCs
